@@ -7,10 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon --exec ./node_modules/.bin/babel-node src/server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/hoanghuy1801/node-basic.git"
-  },
   "author": "",
   "license": "ISC",
   "bugs": {
